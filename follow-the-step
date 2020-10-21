@@ -9,3 +9,5 @@ Follow the bellow order
 7- target-transactions-table.sql :- create a hive table to store data as per the requirement by fetching from staging.transactions table 
 8- transactionLoad.sql :- loading the data into target.transactions from staging.transactions 
 9- TransactionDataAnalysis.sh :- tish script is to trigger the spark job and transactionLoad.sql 
+
+connect with me :-  www.linkedin.com/in/jatindra-nath-pattanaik-07954b179 
